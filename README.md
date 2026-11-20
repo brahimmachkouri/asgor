@@ -2,6 +2,8 @@
 
 *Automated Security Grading Of Repositories* : ASGOR analyse un dépôt GitHub public et lui donne une note de sécurité (secrets, dépendances vulnérables, code), avec un rapport détaillé.
 
+![Page d'accueil d'ASGOR : champ pour l'URL du dépôt, options d'analyse et liste des analyses récentes](https://raw.githubusercontent.com/brahimmachkouri/asgor-app/refs/heads/main/docs/apercu-accueil.png)
+
 Ce dépôt sert à **installer ASGOR sur son poste** avec Docker. Le code source, les tests et la construction de l'image sont dans [asgor-app](https://github.com/brahimmachkouri/asgor-app). Pour corriger les dépendances signalées par un rapport, voir [asgor-tools](https://github.com/brahimmachkouri/asgor-tools).
 
 ---
