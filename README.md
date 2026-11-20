@@ -117,3 +117,7 @@ docker image rm ghcr.io/brahimmachkouri/asgor@sha256:7db9bcc28540af06be6014bc844
 | Version | Date | Image |
 |---|---|---|
 | 0.1.0 | 20/11/2026 | `ghcr.io/brahimmachkouri/asgor:0.1.0@sha256:7db9bcc28540af06be6014bc844e79681e14681ac7ce8ad7ce8a2c7d97fac010` |
+
+---
+
+Licence : MIT (voir [`LICENSE`](LICENSE)). Elle couvre ce dépôt et ASGOR ; les outils d'analyse et les règles de Semgrep ont leurs propres licences (voir plus haut).
